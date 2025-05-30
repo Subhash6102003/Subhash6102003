@@ -8,11 +8,11 @@
 
 📫 How to reach me:
 
-📧 Email: [Your Email]
+📧 Email: [subhashmaurya6102003@gmail.com]
 
-💼 LinkedIn: [Your LinkedIn Profile URL]
+💼 LinkedIn: [https://www.linkedin.com/in/subhash-maurya-656905243/]
 
-🌐 Portfolio: [Your Portfolio Website URL]
+🌐 Portfolio: [(https://subhash6102003.github.io/Portfolio-Website/)]
 
 😄 Pronouns: He/Him
 
