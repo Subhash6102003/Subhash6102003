@@ -12,7 +12,7 @@
 
 💼 LinkedIn: [https://www.linkedin.com/in/subhash-maurya-656905243/]
 
-🌐 Portfolio: [(https://subhash6102003.github.io/SUBHASH-MAURYA/)]
+🌐 Portfolio: [https://subhash-portfolio-peach.vercel.app/]
 
 😄 Pronouns: He/Him
 
